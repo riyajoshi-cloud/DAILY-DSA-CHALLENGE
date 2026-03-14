@@ -1,1 +1,70 @@
+## DAY 1 PRACTICE QUESTIONS : PSEUDOCODES
+<br>
 
+1. Leap Year Check
+Start
+Input year
+IF( year % 4 = 0 ) AND ( year % 100 != 0 OR year % 400 = 0) THEN
+   Print "LEAP YEAR"
+else
+   Print "NOT A LEAP YEAR"
+End If
+Stop
+
+2. Sum of numbers
+Start
+Input n1
+Input n2
+Sum = n1 + n2
+Print sum
+Stop
+
+3. Multiplication Table ( 1 to 10 )
+Start
+Input n 
+Set i = 1
+while i<=10 DO
+   result = n * i
+   Print n, "x", i, "=", result
+   i+=1
+End while
+Stop
+
+4. HCF AND LCM 
+Start
+Input a
+Input b
+
+IF a > b THEN
+    num = a
+    den = b
+ELSE
+    num = b
+    den = a
+END IF
+
+rem = num % den
+
+WHILE rem != 0 DO
+    num = den
+    den = rem
+    rem = num % den
+END WHILE
+
+HCF = den
+LCM = (a * b) / HCF
+
+Print HCF, LCM
+Stop
+
+
+5. SUM UNTIL 'X'
+Start 
+Set sum = 0
+Input n
+WHILE n!= X DO
+   sum = sum + n
+   Input n
+END WHILE
+Print sum
+Stop
