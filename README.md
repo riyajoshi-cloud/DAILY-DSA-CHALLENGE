@@ -1,6 +1,13 @@
 # DAILY-DSA-CHALLENGE🎯
 A structured daily log of Data Structures and Algorithms problems solved in Java, focusing on building strong problem-solving skills and coding consistency.
 <br>
+Week 1–2   →   Language Basics + Maths for DSA
+Week 3–4   →   Arrays + Strings
+Week 5–6   →   Recursion + Searching & Sorting
+Week 7–8   →   Linked Lists + Stacks & Queues
+Week 9–10  →   Trees + Binary Search Trees
+Week 11–12 →   Graphs + Dynamic Programming
+Week 13+   →   Advanced Topics + Interview Prep
 <hr>
 Day 1 — Introduction to Programming: Types of Languages, Memory Management
 <br>
