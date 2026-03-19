@@ -23,5 +23,7 @@ Day 3 — Loops & Conditional Statements
 <br>
 Day 4 — switch case (Java)
 <br>
+Day 5 — Functions & Methods
 <br>
+Day 6 — More Practice on Functions
 <br>
