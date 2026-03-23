@@ -27,3 +27,4 @@ Day 5 — Functions & Methods
 <br>
 Day 6 — More Practice on Functions
 <br>
+Day 7 — Arrays and Arraylist
