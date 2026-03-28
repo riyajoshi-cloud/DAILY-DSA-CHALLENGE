@@ -28,3 +28,8 @@ Day 5 — Functions & Methods
 Day 6 — More Practice on Functions
 <br>
 Day 7 — Arrays and Arraylist
+<br>
+Day 8 - Linear Search
+<br>
+Day 9 - Binary Search 
+<br>
