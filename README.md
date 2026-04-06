@@ -33,4 +33,4 @@ Day 8 - Linear Search
 <br>
 Day 9 - Binary Search 
 <br>
-Day 10 - Binary search for 2D Arrays
+Day 10 - Binary search for 2D-Arrays
