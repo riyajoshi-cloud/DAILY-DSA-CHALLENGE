@@ -34,3 +34,7 @@ Day 8 - Linear Search
 Day 9 - Binary Search 
 <br>
 Day 10 - Binary search for 2D-Arrays
+<br>
+Day 11 - Bubble Sort
+<br>
+Day 12 - Selection and Insertion Sort
